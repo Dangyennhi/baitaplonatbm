@@ -28,4 +28,9 @@ Socket TCP: Để giao tiếp giữa client và server khi gửi nhận tệp ti
 Giao Diện Người Dùng
 Giao diện người dùng được thiết kế đơn giản và dễ sử dụng, cung cấp các tính năng cơ bản như nhập tin nhắn, chọn tệp tin để gửi, và hiển thị các thông báo khi tệp tin hoặc tin nhắn được gửi hoặc nhận thành công. Giao diện được thiết kế tối giản, nhưng vẫn đảm bảo tính thẩm mỹ và dễ sử dụng
 
-![image](https://github.com/user-attachments/assets/4bcfbd9b-b531-4bdd-a30e-a34ab220d562)
+![image](https://github.com/user-attachments/assets/5ad6ef3b-f340-4c0a-b1b4-e055488576e7)
+![image](https://github.com/user-attachments/assets/ae2a57ee-7888-4c34-9d8b-cda8890c2757)
+![image](https://github.com/user-attachments/assets/a132a4aa-5cfb-47d3-90d6-d5386aff0861)
+![image](https://github.com/user-attachments/assets/348296a3-4085-4f5a-a6c8-ec9bba0ceedc)
+
+
